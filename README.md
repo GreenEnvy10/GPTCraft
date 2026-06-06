@@ -5,7 +5,7 @@ This was made as just a fun little project of mine to test this idea.
 
 Only supports Fabric 1.21.1 for now!
 ## How to Install
-1. Download the latest jar from the [releases](github.com/GreenEnvy10/GPTCraft/releases/latest) page.
+1. Download the latest jar from the [releases](https://github.com/GreenEnvy10/GPTCraft/releases/latest) page.
 2. Copy it into your mods folder. If you don't know how to install mods, check my other tutorial for it [here.](https://github.com/GreenEnvy10/ModLoaderTutorial) **Make sure you have Fabric API installed!**
 3. Launch Minecraft.
 Ta-da! You have the mod installed!
