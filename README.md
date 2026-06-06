@@ -21,5 +21,6 @@ Ta-da! You have the mod installed!
    * Claude models: `claude-{name}-{major}-{minor}`, e.g. `claude-opus-4-x`, `claude-sonnet-4-x`
      * Latest Haiku version: `claude-haiku-4-5-20251001`
 5. Type `/ai key <your key>`. Paste in your key from earlier.
-Congrats, you now have an LLM in Minecraft.
+
+Congrats, you now have an LLM in Minecraft!
 Press F10 on your keyboard to open the GUI. You can change the keybind in your settings.
